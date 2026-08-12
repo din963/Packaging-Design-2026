@@ -1,1 +1,0 @@
-# Packaging-Design-2026
